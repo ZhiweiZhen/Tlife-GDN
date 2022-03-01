@@ -1,0 +1,1 @@
+Persistent diagram generation
