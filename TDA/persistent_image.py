@@ -54,8 +54,8 @@ def persistence_images(dgms, resolution = [200,200], return_raw = False, normali
 
 # save ATD PIs as .npy
 
-folderSaveImgs = 'data/COVID_CA_PERCENT/PI_TEST/'
-nameFolderNet = 'data/COVID_CA_PERCENT/output_test/DATA/BCALL' # * Example 1
+folderSaveImgs = 'data/COVID_TX_PERCENT/PI_TEST/'
+nameFolderNet = 'data/COVID_TX_PERCENT/output_test/DATA/BCALL' # * Example 1
 TotalNets =175 # Total of graphs in the dynamic network
 PIs = []
 for kNet in range(0,TotalNets): 
