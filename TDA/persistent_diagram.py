@@ -31,11 +31,11 @@ else:
 scaleParameter = 1.0 # Scale Parameter
 maxDimHoles = 3 # Maximum Dimension of Holes (always choose the desired number + 1)
 # Dynamic Network
-nameFolderNet = 'data/COVID_CA_PERCENT/ZIGZAG_DATA_TRAIN/filename' # * filelocation
+nameFolderNet = 'data/COVID_TX_PERCENT/ZIGZAG_DATA_TRAIN/filename' # * filelocation
 
 NVertices = 127 # Number of vertices, all graphs have the same number of vertices
 TotalNets = 3489 # Total of graphs in the dynamic network
-folderSaveImgs = 'data/COVID_CA_PERCENT/output_test/' # HERE !!! Output...
+folderSaveImgs = 'data/COVID_TX_PERCENT/output_test/' # HERE !!! Output...
 
 #%% Creating folders and compute everything automatically
 start_time = time.time() # **** To measure time
