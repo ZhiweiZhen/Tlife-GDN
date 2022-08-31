@@ -9,7 +9,7 @@ cuda == 11.1 \
 Pytorch==1.11.0 \
 PyG: torch-geometric==2.0.4
 
-#Citing this repository
+# Citing this repository
 If you find this code helpful for your research, please consider citing us:
 @inproceedings{zhen2022tlife,
   title={Tlife-GDN: Detecting and Forecasting Spatio-Temporal Anomalies via Persistent Homology and Geometric Deep Learning},
